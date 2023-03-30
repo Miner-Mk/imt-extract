@@ -2,7 +2,7 @@
 
 ## Installation
 
-Requires command line requires: ffmpeg imagemagick 
+Command line requires: ffmpeg imagemagick 
          
 Python requires: pillow opencv numpy
 
